@@ -1,6 +1,12 @@
 /* Counting inverse*/
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <cmath> 
+#include <limits> 
+#include <fstream>
 using namespace std;
+
 
 int mergeSortAndCountInv(int arr[], int l, int r);
 int merge(int arr[], int l, int m, int r);

@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "algorithm": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
